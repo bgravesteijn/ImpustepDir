@@ -1,0 +1,9 @@
+Package: Impustep
+Type: Package
+Title: 5 steps for imputation
+Version: 1.0
+Date: 2019-11-04
+Author: Benjamin Gravesteijn
+Maintainer: Benjamin Gravesteijn <b.gravesteijn@erasmusmc.nl>
+Description: Functions for the 5 steps for imputation
+License: "GPL-2"
